@@ -1,0 +1,11 @@
+{
+    "name": "betaweb/nested-php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "betaWeb",
+            "email": "cyprien.glepin@gmail.com"
+        }
+    ],
+    "require": {}
+}
